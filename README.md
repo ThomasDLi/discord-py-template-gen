@@ -1,5 +1,5 @@
 # discord-py-template-gen
-Automatically generates a discord.py template which makes your life easier. Simply download the python file and run it, then follow instructions given in the GUI.
+Automatically generates a discord.py template which makes your life easier. Simply download the python file and run it, then follow instructions given in the GUI. Made with only default libaries so you shouldn't need to install any libaries to make it work. Only dependency is tkinter, which is built in. Of course, you'll need to install discord.py to make use of the template though.
 
 ## Example of how easy it is to use:
 
